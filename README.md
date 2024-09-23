@@ -15,7 +15,7 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
-| 2  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 프로젝트 | [GitHub 링크][(https://github.com/haewoni/Average-Load-Linux) | 2024-09-19 |
+| 2  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 프로젝트 | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-19 |
 
 <br>
 
