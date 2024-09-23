@@ -14,20 +14,19 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
-| 2  | **cronLab** | cronLab 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
-| 3  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
+| 1  | **ELK PipeLine & Kibana visualize** | ELK 파이프라인을 이용하여 로그수집과 키바나를 통한 데이터 시각화 | Linux, ElasticSearch, Logstash, Kibana, Mysql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-07-29 |
+| 2  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
+| 3  | **cronLab** | cronLab 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
+| 4  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
 
 
 <br>
 
-### ✨ 백엔드 프로젝트 목록 ✨ (수정 예정)
+### ✨ 백엔드 프로젝트 목록 ✨
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **Java 스트림 및 람다를 이용한 코드 리팩토링** | 기존 Java 코드를 스트림과 람다를 사용해 현대적으로 리팩토링 | Java 17, 스트림 API, 람다 표현식 | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/castlhoo/Refactoring) | 2024-07-19 |
-| 2  | **JPA 영속성 컨텍스트 학습을 위한 문제 제작** | JPA 영속성 컨텍스트의 동작 원리를 이해하기 위한 예제 문제 개발 | Java, JPA, 영속성 컨텍스트, JPQL, 엔티티 생명주기 | 팀 프로젝트 (6명) | [GitHub 링크](https://github.com/Fisa3/OJT_Project) | 2024-08-02 |
-| 3  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
+| 1  | **SpringBoot를 이용한 웹페이지 개발** | 예초&벌초 매칭 서비스 플랫폼 개발 | Spring Boot, JPA, Html5, Oracle | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
 
 ---
 
