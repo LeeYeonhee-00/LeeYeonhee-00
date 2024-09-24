@@ -58,9 +58,9 @@
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **ELK PipeLine & Kibana visualize** | ELK 파이프라인을 이용하여 로그수집과 키바나를 통한 데이터 시각화 | Linux, ElasticSearch, Logstash, Kibana, Mysql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-07-29 |
 | 2  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
-| 3  | **cronLab** | cronLab 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
+| 3  | **cronLab** | cronLab 프로젝트 | Linux, Shell Script | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
 | 4  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
-
+| 5  | **Docker-Image-Optimization** | 도커 이미지 최적화 실습 | Linux, Docker | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
 
 <br>
 
