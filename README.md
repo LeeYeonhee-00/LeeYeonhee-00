@@ -68,7 +68,8 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **SpringBoot를 이용한 웹페이지 개발** | 예초&벌초 매칭 서비스 플랫폼 개발 | Spring Boot, JPA, Html5, Oracle | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
+| 1  | **도서대여 시스템** | MVC패턴 학습을 위한 미니프로젝트 | Java | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/woori-fisa3) | 2024-07-12 |
+| 2  | **SpringBoot를 이용한 웹페이지 개발** | 예초&벌초 매칭 서비스 플랫폼 개발 | Spring Boot, JPA, Html5, Oracle | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
 
 ---
 
