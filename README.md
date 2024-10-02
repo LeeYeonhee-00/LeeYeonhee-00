@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 | 3  | **cronLab** | cronLab 프로젝트 | Linux, Shell Script | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
 | 4  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
 | 5  | **Docker-Image-Optimization** | 도커 이미지 최적화 실습 | Linux, Docker | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
-| 6  | **CI/CD** | CI/CD 자동화 과정 구축 | Linux, Docker, Jenkins | 개인 프로젝트 | [노션 링크]([https://github.com/haewoni/Docker-Image-Optimization](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
-| 7  | **MINIKUBE** | MINIKUBE를 통한 springapp 실행 환경 구축 | Minikube, Docker, Spring | 개인 프로젝트 | [노션 링크]([https://github.com/haewoni/Docker-Image-Optimization](https://rapid-bush-206.notion.site/241002-Minikube-113fb022fe818097a85ecff2164f9f9d?pvs=4) | 2024-10-02 |
+| 6  | **CI/CD** | CI/CD 자동화 과정 구축 | Linux, Docker, Jenkins | 개인 프로젝트 | [노션 링크](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
+| 7  | **MINIKUBE** | MINIKUBE를 통한 springapp 실행 환경 구축 | Minikube, Docker, Spring | 개인 프로젝트 | [노션 링크](https://rapid-bush-206.notion.site/241002-Minikube-113fb022fe818097a85ecff2164f9f9d?pvs=4) | 2024-10-02 |
 
 <br>
 
