@@ -1,6 +1,7 @@
 # 👋 Hi there 
-**LeeYeonhee-00/LeeYeonhee-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+I'm Yeonhee Lee, developer / engineer interested in cloud environment! <br>
+I have experience in backend development and infrastructure building with Spring Boot. <br>
+I'm not afraid of what I don't know, and I'm brave enough to ask and solve questions. <br>
 - 🌱 I’m currently learning ...
 <br>
 
@@ -47,38 +48,26 @@ Here are some ideas to get you started:
 <br>
 
 # 🤔 My-Personal-Projects-Portfolio
-
-*최종 업데이트: 2024년 9월 23일*
-
+Hello! This repository is a portfolio of **various mini-projects that I've explored and planned on my own**.😊 <br>
+Each project includes the entire process from problem analysis to architecture design, implementation, and testing.
+<br>
+### 🎖️ Infrastructure Project List 🎖️
+| No | Project Name | Description | Key Technologies | Participants | Link | Date |
+|----|--------------|-------------|-------------------|--------------|------|------|
+| 1  | **ELK Pipeline & Kibana Visualization** | Log collection using ELK pipeline and data visualization through Kibana | Linux, ElasticSearch, Logstash, Kibana, MySQL | Team Project (4 people) | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-07-29 |
+| 2  | **VPN Tunneling Construction Project** | Building a secure network through VPN Tunneling | VPN, Network Security, IPSec | Team Project (4 people) | [GitHub Link](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
+| 3  | **cronLab** | cronLab Project | Linux, Shell Script | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
+| 4  | **Average-Load-Linux** | Average-Load-Linux Project | Linux | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
+| 5  | **Docker-Image-Optimization** | Docker Image Optimization Practice | Linux, Docker | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
+| 6  | **CI/CD** | Building CI/CD Automation Process | Linux, Docker, Jenkins | Individual Project | [Notion Link](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
+| 7  | **MINIKUBE** | Building a springapp execution environment through MINIKUBE | Minikube, Docker, Spring | Individual Project | [Notion Link](https://rapid-bush-206.notion.site/241002-Minikube-113fb022fe818097a85ecff2164f9f9d?pvs=4) | 2024-10-02 |
 <br>
 
-안녕하세요! 이 레포지토리는 **스스로 탐구하고 기획하여 진행한 다양한 미니 프로젝트들**을 모아놓은 포트폴리오입니다.😊 <br>
-
-각 프로젝트는 문제 분석부터 아키텍처 설계, 구현, 그리고 테스트까지 전 과정을 포함하고 있습니다. 
-
-<br>
-
-### 🎖️ 인프라 프로젝트 목록 🎖️
-
-| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
-|----|---------------|------|-----------|----------|------|------|
-| 1  | **ELK PipeLine & Kibana visualize** | ELK 파이프라인을 이용하여 로그수집과 키바나를 통한 데이터 시각화 | Linux, ElasticSearch, Logstash, Kibana, Mysql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-07-29 |
-| 2  | **VPN Tunneling 구축 프로젝트** | VPN Tunneling을 통한 보안 네트워크 구축 | VPN, 네트워크 보안, IpSec | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
-| 3  | **cronLab** | cronLab 프로젝트 | Linux, Shell Script | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
-| 4  | **Average-Load-Linux** | Average-Load-Linux 프로젝트 | Linux | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
-| 5  | **Docker-Image-Optimization** | 도커 이미지 최적화 실습 | Linux, Docker | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
-| 6  | **CI/CD** | CI/CD 자동화 과정 구축 | Linux, Docker, Jenkins | 개인 프로젝트 | [노션 링크](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
-| 7  | **MINIKUBE** | MINIKUBE를 통한 springapp 실행 환경 구축 | Minikube, Docker, Spring | 개인 프로젝트 | [노션 링크](https://rapid-bush-206.notion.site/241002-Minikube-113fb022fe818097a85ecff2164f9f9d?pvs=4) | 2024-10-02 |
-
-<br>
-
-### ✨ 백엔드 프로젝트 목록 ✨
-
-| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
-|----|---------------|------|-----------|----------|------|------|
-| 1  | **도서대여 시스템** | MVC패턴 학습을 위한 미니프로젝트 | Java | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/woori-fisa3) | 2024-07-12 |
-| 2  | **SpringBoot를 이용한 웹페이지 개발** | 예초&벌초 매칭 서비스 플랫폼 개발 | Spring Boot, JPA, Html5, Oracle | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
+### ✨ Backend Project List ✨
+| No | Project Name | Description | Key Technologies | Participants | Link | Date |
+|----|--------------|-------------|-------------------|--------------|------|------|
+| 1  | **Book Rental System** | Mini-project for learning MVC pattern | Java | Team Project (4 people) | [GitHub Link](https://github.com/jeonguk0201/woori-fisa3) | 2024-07-12 |
+| 2  | **Web Page Development using Spring Boot** | Development of a grass cutting & grave maintenance matching service platform | Spring Boot, JPA, HTML5, Oracle | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
 
 ---
-
-이 포트폴리오는 지속적으로 업데이트됩니다.
+This portfolio is continuously updated. (Recent Update : 2024.10.03)
