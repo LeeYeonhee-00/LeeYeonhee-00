@@ -75,7 +75,7 @@ Each project includes the entire process from problem analysis to architecture d
 | No | Project Name | Description | Key Technologies | Participants | Link | Date |
 |----|--------------|-------------|-------------------|--------------|------|------|
 | 1  | **Movie Recommendation** | Movie Recommendation System | Python | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/Movie_Recommendation) | 2022-12-01 |
-| 2  | **Kr Raptor Model** | Kr Raptor Model Learning | Python | Individual Project | [GitHub Link](https://github.com/LeeYeonhee-00/kr_raptor) | 2023-11-23 |
+| 2  | **Kr Raptor Model** | Kr Raptor Model Learning | Python, Jupyter Notebook | Individual Project | [GitHub Link](https://github.com/LeeYeonhee-00/kr_raptor) | 2023-11-23 |
 
 
 ---
