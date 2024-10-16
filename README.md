@@ -2,7 +2,6 @@
 I'm Yeonhee Lee, developer / engineer interested in cloud environment! <br>
 I have experience in backend development and infrastructure building with Spring Boot. <br>
 I'm not afraid of what I don't know, and I'm brave enough to ask and solve questions. <br>
-- 🌱 I’m currently learning ...
 <br>
 
 # 📚 STACKS</h1></div>
@@ -71,7 +70,7 @@ Each project includes the entire process from problem analysis to architecture d
 
 <br>
 
-### ✨ Data Science Project List ✨
+### 🌱 Data Science Project List 🌱
 | No | Project Name | Description | Key Technologies | Participants | Link | Date |
 |----|--------------|-------------|-------------------|--------------|------|------|
 | 1  | **Movie Recommendation** | Movie Recommendation System | Python | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/Movie_Recommendation) | 2022-12-01 |
