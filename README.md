@@ -67,7 +67,16 @@ Each project includes the entire process from problem analysis to architecture d
 | No | Project Name | Description | Key Technologies | Participants | Link | Date |
 |----|--------------|-------------|-------------------|--------------|------|------|
 | 1  | **Book Rental System** | Mini-project for learning MVC pattern | Java | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/fisa3Library) | 2024-07-12 |
-| 2  | **Web Page Development using Spring Boot** | Development of a grass cutting & grave maintenance matching service platform | Spring Boot, JPA, HTML5, Oracle | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
+| 2  | **AncestorLove** | Development of a grass cutting & grave maintenance matching service platform | Spring Boot, ELK, Oracle | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 |
+
+<br>
+
+### ✨ Data Science Project List ✨
+| No | Project Name | Description | Key Technologies | Participants | Link | Date |
+|----|--------------|-------------|-------------------|--------------|------|------|
+| 1  | **Movie Recommendation** | Movie Recommendation System | Python | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/Movie_Recommendation) | 2022-12-01 |
+| 2  | **Kr Raptor Model** | Kr Raptor Model Learning | Python | Individual Project | [GitHub Link](https://github.com/LeeYeonhee-00/kr_raptor) | 2023-11-23 |
+
 
 ---
 This portfolio is continuously updated. (Recent Update : 2024.10.03)
