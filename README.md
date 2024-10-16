@@ -66,7 +66,7 @@ Each project includes the entire process from problem analysis to architecture d
 ### ✨ Backend Project List ✨
 | No | Project Name | Description | Key Technologies | Participants | Link | Date |
 |----|--------------|-------------|-------------------|--------------|------|------|
-| 1  | **Book Rental System** | Mini-project for learning MVC pattern | Java | Team Project (4 people) | [GitHub Link](https://github.com/jeonguk0201/woori-fisa3) | 2024-07-12 |
+| 1  | **Book Rental System** | Mini-project for learning MVC pattern | Java | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/fisa3Library) | 2024-07-12 |
 | 2  | **Web Page Development using Spring Boot** | Development of a grass cutting & grave maintenance matching service platform | Spring Boot, JPA, HTML5, Oracle | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/AncestorLove) | 2024-08-13 ~ |
 
 ---
