@@ -56,11 +56,10 @@ Each project includes the entire process from problem analysis to architecture d
 |----|--------------|-------------|-------------------|--------------|------|------|
 | 1  | **ELK Pipeline & Kibana Visualization** | Log collection using ELK pipeline and data visualization through Kibana | Linux, ElasticSearch, Logstash, Kibana, MySQL | Team Project (4 people) | [GitHub Link](https://github.com/isshomin/Woori_FISA_elk_titanic) | 2024-07-29 |
 | 2  | **VPN Tunneling Construction Project** | Building a secure network through VPN Tunneling | VPN, Network Security, IPSec | Team Project (4 people) | [GitHub Link](https://github.com/WooLockVLock/VPNTunneling) | 2024-09-13 |
-| 3  | **cronLab** | cronLab Project | Linux, Shell Script | Team Project (4 people) | [GitHub Link](https://github.com/LeeYeonhee-00/cronLab) | 2024-09-19 |
-| 4  | **Average-Load-Linux** | Average-Load-Linux Project | Linux | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
-| 5  | **Docker-Image-Optimization** | Docker Image Optimization Practice | Linux, Docker | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
-| 6  | **CI/CD** | Building CI/CD Automation Process | Linux, Docker, Jenkins | Individual Project | [Notion Link](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
-| 7  | **MINIKUBE** | Building a springapp execution environment through MINIKUBE | Minikube, Docker, Spring | Individual Project | [Notion Link](https://rapid-bush-206.notion.site/241002-Minikube-113fb022fe818097a85ecff2164f9f9d?pvs=4) | 2024-10-02 |
+| 3  | **Average-Load-Linux** | Average-Load-Linux Project | Linux | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Average-Load-Linux) | 2024-09-23 |
+| 4  | **Docker-Image-Optimization** | Docker Image Optimization Practice | Linux, Docker | Team Project (4 people) | [GitHub Link](https://github.com/haewoni/Docker-Image-Optimization) | 2024-09-24 |
+| 5  | **InfraMaster** | Learning various infrastructure technologies, including CI/CD automation, containerization, and orchestration | Linux, Docker, Jenkins, K8S ,,, | Individual Project | [Notion Link](https://rapid-bush-206.notion.site/241001-CI-CD-Minikube-112fb022fe8180f9bac1e89a7351ec78?pvs=4) | 2024-09-30 |
+
 <br>
 
 ### ✨ Backend Project List ✨
