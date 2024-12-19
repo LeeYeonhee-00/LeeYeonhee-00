@@ -1,13 +1,12 @@
 # 👋 Hi there 
 I'm Yeonhee Lee, developer / engineer interested in cloud environment! <br>
-I have experience in backend development and infrastructure building with Spring Boot. <br>
+I have experience in backend development with Spring Boot and infrastructure building. <br>
 I'm not afraid of what I don't know, and I'm brave enough to ask and solve questions. <br>
 <br>
 
 # 📚 STACKS</h1></div>
 
 <div align=center> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
